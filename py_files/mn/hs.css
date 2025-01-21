@@ -1,0 +1,32 @@
+body {
+  background: orange;
+}
+.hd1 {
+  background: white;
+  padding: 30px 15px;
+  width: 100%;
+}
+h1 {
+  text-align: center
+}
+p {
+ 
+  text-align: center;
+  style="font-family:arial;
+  background:red;
+}
+aside {
+  float: right;
+  background: silver;
+  width: 25%;
+}
+#lgn {
+ float: right;
+}
+section {
+  background: green;
+  padding: 100px 50px;
+  width: 100%;
+}
+
+
